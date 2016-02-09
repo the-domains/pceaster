@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Easter at Palmcroft]]></title>
+        <description><![CDATA[Easter at Palmcroft]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 18:41:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Easter at Palmcroft]]></title>
+            <description><![CDATA[<article><h1>Easter at Palmcroft</h1><p>Information bout that. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58d060f5-ea85-44cc-b2f9-a2e33a9a7665.png"></article>]]></description>
+            <link>undefinedeaster-at-palmcroft/index.html</link>
+            <guid isPermaLink="false">feb56611-9410-44a9-9f45-0a9249649d54</guid>
+            <pubDate>Tue, 09 Feb 2016 18:41:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

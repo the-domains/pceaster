@@ -1,6 +1,6 @@
 name: Easter at Palmcroft
 favicon: null
-layout_spectrum: 0.50155
+layout_spectrum: 0.89754
 typography_spectrum: 0.8539306398015469
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#fae54f'
     - '#b0ab9c'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.25
 purpose: []
